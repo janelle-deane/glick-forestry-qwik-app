@@ -20,8 +20,8 @@ html {
 }
 
 body {
-  background: var(--qwik-dark-background);
-  color: var(--qwik-dark-text);
+  background: #FFFFFA;
+  color: #212529;
   overflow-x: hidden;
 }
 
@@ -29,7 +29,7 @@ body {
 h1,
 h2,
 h3 {
-  color: white;
+  color: #212529;
   margin: 0;
 }
 
@@ -69,7 +69,7 @@ h3 {
 /* TAGS ----------------------------------------- */
 a {
   text-decoration: none;
-  color: var(--qwik-light-blue);
+  color: #212529;
 }
 
 code {
@@ -125,7 +125,7 @@ button {
   background: var(--qwik-light-blue);
   border: none;
   border-radius: 8px;
-  color: white;
+  color: #212529;
   cursor: pointer;
   font-size: 0.8rem;
   padding: 15px 20px;
