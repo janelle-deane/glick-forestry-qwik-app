@@ -34,6 +34,7 @@ export default component$(() => {
           </li>
         </ul>
       </div>
+      <div class={["container container-purple"]}></div>
     </header>
   );
 });
