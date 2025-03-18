@@ -89,7 +89,8 @@ ul {
   padding: 30px 40px;
 }
 .container.container-purple {
-  background: var(--qwik-light-purple);
+  background: var(--qwik-dark-purple);
+  padding: 1px;
 }
 .container.container-dark {
   background: var(--qwik-dark-background);
